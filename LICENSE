@@ -4,3 +4,6 @@ function one(name){
 function two(age){
     var age = age;
 }
+function three(wages){
+    var wages = wages;
+}
