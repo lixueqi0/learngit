@@ -1,0 +1,6 @@
+function one(name){
+    var xiaoming = name;
+}
+function two(age){
+    var age = age;
+}
