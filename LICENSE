@@ -7,3 +7,11 @@ function two(age){
 function three(wages){
     var wages = wages;
 }
+function three(wages){
+    var wages = wages;
+}
+function three(wages){
+    var wages = wages;
+}
+
+
